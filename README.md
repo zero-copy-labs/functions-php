@@ -17,6 +17,9 @@ PHP Client library to interact with Supabase Edge Functions.
 composer require supabase/functions-php
 ```
 
+## Examples
+[Examples directory](https://github.com/zero-copy-labs/functions-php/tree/main/examples)
+
 ### Calling an Edge Function
 
 ```php
